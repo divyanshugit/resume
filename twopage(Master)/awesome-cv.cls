@@ -529,6 +529,7 @@
   \vspace{1mm}
 }
 
+
 % Define an environment for cventry
 \newenvironment{cventries}{%
   \begin{center}
